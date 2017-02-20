@@ -30,3 +30,11 @@ Items in this part of my list are based on [this Github repository](https://gith
 
 
 ### Non-Free books
+* [Version Control with Git: Powerful tools and techniques for collaborative software development](https://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387)- Jon Loeliger, Matthew McCullough
+* [Git Pocket Guide: A Working Introduction](https://www.amazon.com/Git-Pocket-Guide-Working-Introduction/dp/1449325866)- Richard E. Silverman
+* [Git in Practice: Includes 66 Techniques](https://www.amazon.com/Git-Practice-Techniques-Mike-McQuaid/dp/1617291978) - Mike McQuaid
+* [Pragmatic Guide to Git](https://www.amazon.com/Pragmatic-Guide-Git-Guides/dp/1934356727) - Travis Swicegood
+* [Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git](https://www.amazon.com/Git-Teams-User-Centered-Efficient-Workflows/dp/1491911182) - Emma Jane Hogbin Westby
+* [Git: Version control for everyone](https://www.amazon.com/Git-Version-everyone-Ravishankar-Somasundaram/dp/1849517525) - Ravishankar Somasundaram
+* [Git Recipes: A Problem-Solution Approach](https://www.amazon.com/Git-Recipes-Problem-Solution-Wlodzimierz-Gajda/dp/143026103X) - Wlodzimierz Gajda
+* [Git: Distributed Version Control—Fundamentals and Workflows](https://www.amazon.com/Git-Distributed-Version-Fundamentals-Workflows/dp/1771970006) - René Preißel, Bjørn Stachmann
