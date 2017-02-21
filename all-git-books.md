@@ -2,6 +2,10 @@ Contents
 ========
 This repository contains the list of all published and non-published Git books. These books include commercial and non-comercial books!
 
+Author: Gholamreza Sabery Tabrizy
+Email: reza_sabery_89@yahoo.com
+Website: [http://www.saberynotes.com](http://www.saberynotes.com)
+
 ### Free Git books
 Items in this part of my list are based on [this Github repository](https://github.com/vhf/free-programming-books).
 * [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction)
