@@ -32,7 +32,7 @@ Items in this part of my list are based on [this Github repository](https://gith
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Ry's Git Tutorial](http://rypress.com/tutorials/git) - Ryan Hodson
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
-* [Version Control by Example (Mercurial, Subversion, Verasity)](http://ericsink.com/vcbe/)
+* [Version Control by Example (Subversion, Mercurial, Git, Veracity)](http://ericsink.com/vcbe/)
 
 
 ### Non-Free books
