@@ -15,6 +15,7 @@ Items in this part of my list are based on [this Github repository](https://gith
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/)
+* [Git for Everyone](https://anotheruiguy.gitbooks.io/gitforeveryone/) 
 * [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
 * [Git Immersion](http://gitimmersion.com)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
