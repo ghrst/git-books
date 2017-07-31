@@ -40,8 +40,15 @@ Items in this part of my list are based on [this Github repository](https://gith
 * [Version Control with Git: Powerful tools and techniques for collaborative software development](https://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387)- Jon Loeliger, Matthew McCullough
 * [Git Pocket Guide: A Working Introduction](https://www.amazon.com/Git-Pocket-Guide-Working-Introduction/dp/1449325866)- Richard E. Silverman
 * [Git in Practice: Includes 66 Techniques](https://www.amazon.com/Git-Practice-Techniques-Mike-McQuaid/dp/1617291978) - Mike McQuaid
+* [Pragmatic Version Control Using Git](https://www.amazon.com/Pragmatic-Version-Control-Using-Starter/dp/1934356158) - Travis Swicegood
 * [Pragmatic Guide to Git](https://www.amazon.com/Pragmatic-Guide-Git-Guides/dp/1934356727) - Travis Swicegood
 * [Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git](https://www.amazon.com/Git-Teams-User-Centered-Efficient-Workflows/dp/1491911182) - Emma Jane Hogbin Westby
 * [Git: Version control for everyone](https://www.amazon.com/Git-Version-everyone-Ravishankar-Somasundaram/dp/1849517525) - Ravishankar Somasundaram
 * [Git Recipes: A Problem-Solution Approach](https://www.amazon.com/Git-Recipes-Problem-Solution-Wlodzimierz-Gajda/dp/143026103X) - Wlodzimierz Gajda
 * [Git: Distributed Version Control—Fundamentals and Workflows](https://www.amazon.com/Git-Distributed-Version-Fundamentals-Workflows/dp/1771970006) - René Preißel, Bjørn Stachmann
+* [Git Version Control Cookbook - 90 Recipes to Transform your Development Workflow and Boost Productivity](https://www.amazon.com/Git-Version-Control-Cookbook-Productivity/dp/1782168451) - Aske Olsson, Rasmus Voss
+* [Git Essentials](https://www.amazon.com/Git-Essentials-Ferdinando-Santacroce/dp/1785287907) - Ferdinando Santacroce
+* [Mastering Git](https://www.amazon.com/Mastering-Git-Jakub-Narebski/dp/1783553758/) - Jakub Narębski
+* [Professional Git](https://www.amazon.com/Professional-Git-Brent-Laster/dp/111928497X/) - Brent Laster
+* [Jump Start Git: Take Control of Your Code and Assets](https://www.amazon.com/Jump-Start-Git-Control-Assets/dp/0994182651/) - Shaumik Daityari
+* [Learn Git in a Month of Lunches](https://www.amazon.com/Learn-Month-Lunches-Rick-Umali/dp/1617292419) - Rick Umali
