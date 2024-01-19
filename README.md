@@ -34,6 +34,7 @@ Items in this part of my list is based on [this Github repository](https://githu
 * [Ry's Git Tutorial](http://rypress.com/tutorials/git) - Ryan Hodson
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Version Control by Example (Subversion, Mercurial, Git, Veracity)](http://ericsink.com/vcbe/) - Eric Sink
+* [Git Notes for Professionals book](https://goalkicker.com/GitBook/)
 
 
 ### Non-Free books
