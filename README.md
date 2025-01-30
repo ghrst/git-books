@@ -40,6 +40,7 @@ Items in this part of my list is based on [this Github repository](https://githu
 ### Non-Free books
 Books in this list are sorted in descending order, based on publication-year of last edition.
 
+* [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx)
 * [Learn Version Control with Git: A step-by-step course for the complete beginner](https://www.amazon.com/Learn-Version-Control-step-step/dp/1520786506/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1520786506&pd_rd_r=F759YCFHY9FJEDMM0JGB&pd_rd_w=PkAAs&pd_rd_wg=ZfDKn&psc=1&refRID=F759YCFHY9FJEDMM0JGB) - 	Tobias Günther (1st ed. 2017)
 * [Mastering Git](https://www.amazon.com/Mastering-Git-Jakub-Narebski/dp/1783553758/) - Jakub Narębski (1st ed. 2016)
 * [Professional Git](https://www.amazon.com/Professional-Git-Brent-Laster/dp/111928497X/) - Brent Laster (1st ed. 2016)
