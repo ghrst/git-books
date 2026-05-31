@@ -10,7 +10,7 @@ Website: [http://www.saberynotes.com](http://www.saberynotes.com)
 
 ### Free Git books
 Items in this part of my list is based on [this Github repository](https://github.com/vhf/free-programming-books).
-* [A practical git introduction](http://marc.helbling.fr/2014/09/practical-git-introduction)
+* [A practical git introduction](https://marc.helbling.fr/practical-git-introduction/)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/) - Alan Hohn
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Roger Dudler
